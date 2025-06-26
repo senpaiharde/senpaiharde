@@ -17,7 +17,7 @@ From custom prompts to Dockerized backends — I turn architecture into working 
 
 I don’t just list technologies. I build **systems**.
 
-- **Frontend:** React, Redux, TypeScript, JavaScript, TailwindCSS, Framer Motion, Zustand, Zod, Vite, Next.js  
+- **Frontend:** React, Redux, TypeScript, JavaScript, TailwindCSS, Framer Motion, Zustand, Zod, Vite, Next.js, scss, css 
 - **Backend:** Node.js, Express, REST APIs, Socket.IO  
 - **Databases:** MongoDB, Mongoose, Supabase, Firebase , SQL, MySQL , cookies
 - **Authentication:** Clerk, JWT (jsonwebtoken), bcrypt  
