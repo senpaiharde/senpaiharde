@@ -45,27 +45,27 @@ I don’t just list technologies. I build **systems**.
 > Upload a PDF, ask anything about it — and get smart, contextual answers. Powered by LangChain + OpenAI.
 
 - 🔐 Clerk Authentication
-- 🔁 React + Tailwind + TypeScript frontend
-- 💾 Supabase (migrated from Firebase)
+- 🔁 React + Tailwind + TypeScript frontend + multi components use daisyui/react-pdf shadcn and more
+- 💾 Supabase / Firebase
 - 🧠 LangChain + OpenAI integration
-- 📊 Full conversation history + multi-file support
+- 📊 Full conversation history + multi-file support + payment options sub
 
 ---
 
 #### 🧩 [Berllo (Frontend)](https://github.com/senpaiharde/berllo)
-> Trello-style board + task system with labels, reminders, and integrated AI suggestions.
+> Trello-style board + task system with labels, reminders,cover/attachments,checklists, live talk + full draggble features and integrated AI suggestions.
 
 - ✅ React + Redux + Zustand
 - 💬 AI task summarization / suggestions
-- 🧱 Modular scalable UI system (cards, lists, labels)
+- 🧱 Modular scalable UI system (cards, lists, labels, date, board, cover/attachments,checklists, live talk + full draggble features)
 - 🔄 Connected directly to custom backend
 
 #### ⚙️ [Berllo Backend](https://github.com/senpaiharde/berllo-backend)
 > Clean API backend for Berllo with token auth, database ops, and role management.
 
 - ⚙️ Node.js + Express
-- 🗃️ MongoDB + Mongoose
-- 🔒 JWT-based auth, protected routes
+- 🗃️ MongoDB + Mongoose + sockets  + ai prompting
+- 🔒 JWT-based auth, protected routes 
 - 🧰 Structured for scale
 
 ---
@@ -74,9 +74,9 @@ I don’t just list technologies. I build **systems**.
 > MERN-based bug tracker with Docker, frontend/backend separation, and real-time updates.
 
 - 🐳 Docker support
-- 🛠️ Strong state separation
+- 🛠️ Strong state separation + test area 
 - ⚙️ Node.js + Express + MongoDB backend
-- 💡 React UI with error display and filters
+- 💡 React UI with error display and filters with user layout
 
 ---
 
