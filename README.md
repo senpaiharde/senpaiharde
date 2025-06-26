@@ -19,7 +19,7 @@ I don’t just list technologies. I build **systems**.
 
 - **Frontend:** React, Redux, TypeScript, JavaScript, TailwindCSS, Framer Motion, Zustand, Zod, Vite, Next.js  
 - **Backend:** Node.js, Express, REST APIs, Socket.IO  
-- **Databases:** MongoDB, Mongoose, Supabase, Firebase (migrated), SQL, MySQL  
+- **Databases:** MongoDB, Mongoose, Supabase, Firebase , SQL, MySQL  
 - **Authentication:** Clerk, JWT (jsonwebtoken), bcrypt  
 - **AI / LLMs:** OpenAI API, LangChain, custom prompt logic  
 - **Security:** Helmet.js, CORS, rate limiters, validation pipelines  
